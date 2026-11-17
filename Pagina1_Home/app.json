@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Streaming - Home",
+    "slug": "pagina1-home",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000"
+  }
+}
